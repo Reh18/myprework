@@ -27,3 +27,35 @@ button {
 .hidden {
   display: none;
 }
+
+#Button1 {
+    background: lightgreen;
+}
+
+#Button2 {
+    background: lightblue;
+}
+
+#Button3 {
+    background: pink;
+}
+
+#Button4 {
+    background: lightyellow;
+}
+
+#Button1:active {
+    background:green;
+}
+
+#Button2:active {
+    background:blue;
+}
+
+#Button3:active {
+    background:red;
+}
+
+#Button4:active {
+    background:yellow;
+}
