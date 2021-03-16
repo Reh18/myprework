@@ -23,3 +23,7 @@ button {
   height:200px;
   margin:2px;
 }
+
+.hidden {
+  display: none;
+}
