@@ -44,18 +44,18 @@ button {
     background: lightyellow;
 }
 
-#Button1:active {
+#Button1:active, #Button1.lit {
     background:green;
 }
 
-#Button2:active {
+#Button2:active, #Button2.lit {
     background:blue;
 }
 
-#Button3:active {
+#Button3:active, #Button3.lit {
     background:red;
 }
 
-#Button4:active {
+#Button4:active, #Button4.lit {
     background:yellow;
 }
